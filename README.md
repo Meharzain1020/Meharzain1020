@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)
+<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain1020) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain1020)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/23a08598-baf5-49d0-a576-051390b4e4de" alt="zia-banner-rounded"/>
@@ -22,13 +22,13 @@
 
 
 ## About Me:
-- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman63_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman143_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
 
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/0e5eb092-a9fa-4dd1-9421-fb3fc12cbb0c.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Nexa](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
-- **@[GitHub](https://github.com/Meharzain2010)** Contributing DSA material daily on GitHub and my achievements.
-- **@[LeetCode](https://leetcode.com/u/Zia143/)** Solved [30+](https://github.com/Meharzain2010/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[GitHub](https://github.com/Meharzain1020)** Contributing DSA material daily on GitHub and my achievements.
+- **@[LeetCode](https://leetcode.com/u/Zia143/)** Solved [30+](https://github.com/Meharzain1020/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
-- @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain2010/Volunteer_Teaching).
+- @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain1020/Volunteer_Teaching).
 > Let’s connect and collaborate! Feel free to explore my repositories, leave feedback, or reach out for exciting projects and learning together. 😊
 <!-- ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -45,7 +45,7 @@
 <table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
@@ -53,7 +53,7 @@
 </td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
 </div>
@@ -61,7 +61,7 @@
  </td><td valign="top" width="25%">
         
 ### Backend
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
@@ -72,7 +72,7 @@
 <tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
@@ -80,7 +80,7 @@
 </td><td valign="top" width="25%">
     
 ###  Languages
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
@@ -88,7 +88,7 @@
 </td><td valign="top" width="25%">
 
 ### Others 
-<a href="https://github.com/Meharzain2010">
+<a href="https://github.com/Meharzain1020">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
@@ -105,7 +105,7 @@
 ## Connect with Me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/zia-ur-rehman63/" target="_blank">
+    <a href="https://www.linkedin.com/in/zia-ur-rehman143/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:ziaulrehman6348@gmail.com" target="_blank">
@@ -141,18 +141,18 @@
 <div align='center'>
 
   <!-- GitHub Stats Section -->
-  <a href="https://github.com/Meharzain2010">
-    <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain2010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meharzain2010&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+  <a href="https://github.com/Meharzain1020">
+    <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain1020&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meharzain1020&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
   <div align='center'>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meharzain2010&theme=algolia" >
-<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meharzain2010&theme=algolia">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meharzain1020&theme=algolia" >
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meharzain1020&theme=algolia">
 </div>
 
   <!-- Activity Graph -->
-  <a href="https://github.com/Meharzain2010/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meharzain2010&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
+  <a href="https://github.com/Meharzain1020/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meharzain1020&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 </div>
 
@@ -189,7 +189,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Meharzain2010&theme=chartreuse-dark&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Meharzain1020&theme=chartreuse-dark&row=1&column=7)
 <!--
 </div>
 <div align='center'>
