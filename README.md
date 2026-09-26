@@ -3,7 +3,9 @@
 <swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain1020) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain1020)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23a08598-baf5-49d0-a576-051390b4e4de" alt="zia-banner-rounded"/>
+    <img width="2000" height="528" alt="tool_image_enhancer-1790403878000" src="https://github.com/user-attachments/assets/a4c0111d-4327-4533-99d7-1380543c86eb" />
+
+
 </p>
 
 
@@ -22,10 +24,13 @@
 
 
 ## About Me:
-- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman143_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+- **@[Stanford Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7475060522229489664/)** Selected as 2x Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students in 2025 and 2026.
 
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/0e5eb092-a9fa-4dd1-9421-fb3fc12cbb0c.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Nexa](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/Meharzain1020)** Contributing DSA material daily on GitHub and my achievements.
+- **@[lablab.ai](https://lablab.ai/u/@ZiaUrRehman2010)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- **@[Meta Hacker Cup](https://www.linkedin.com/in/zia-ur-rehman143/overlay/Certifications/273114681/treasury/?profileId=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)**: Participated in Meta Hacker Cup 2024 where I've work on complex problems.
+
 - **@[LeetCode](https://leetcode.com/u/Zia143/)** Solved [30+](https://github.com/Meharzain1020/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
 - @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain1020/Volunteer_Teaching).
